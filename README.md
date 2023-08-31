@@ -15,6 +15,3 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=arturiamu"  alt=""/>
 </div>
 
-[//]: # <div align="center">
-[//]: #     <img src="https://activity-graph.herokuapp.com/graph?username=arturiamu&theme=minimal" />
-[//]: # </div>
