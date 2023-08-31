@@ -1,6 +1,6 @@
 ### Hi welcome to arturiamu's code space!
 
-<div align=""><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align=""><img src="https://raw.githubusercontent.com/arturiamu/arturiamu/main/assets/github-contribution-grid-snake.svg" ></div>
 
 <p align="">
    <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=%7ECoding%20My%20Life%7E" alt="typing-svg">
