@@ -12,10 +12,7 @@ I am a backend development engineer who is exploring Cloud and Database.
 
 💬 Ask me about Backend Development, TiDB and Virtualization.
 
-![亮色](https://raw.githubusercontent.com/arturiamu/arturiamu/output/github-contribution-grid-snake.svg)
-
-
-![暗色](https://raw.githubusercontent.com/arturiamu/arturiamu/output/github-contribution-grid-snake-dark.svg)     
+![亮色](https://raw.githubusercontent.com/arturiamu/arturiamu/output/github-contribution-grid-snake.svg)   
 
 <div align="">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=arturiamu"  alt=""/>
