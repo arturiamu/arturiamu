@@ -1,9 +1,7 @@
 ### Hi welcome to arturiamu's code space!
-
 <p align="">
    <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=%7ECoding%20My%20Life%7E" alt="typing-svg">
 </p>
-
 I am a backend development engineer who is exploring Cloud and Database.
 
 🔭 I’m planning for a Project **Vision: Quantitative Trading based on a certain strategy**.
@@ -14,7 +12,10 @@ I am a backend development engineer who is exploring Cloud and Database.
 
 💬 Ask me about Backend Development, TiDB and Virtualization.
 
-![](https://raw.githubusercontent.com/arturiamu/arturiamu/main/assets/github-contribution-grid-snake.svg)          
+![亮色](https://raw.githubusercontent.com/arturiamu/arturiamu/output/github-contribution-grid-snake.svg)
+
+
+![暗色](https://raw.githubusercontent.com/arturiamu/arturiamu/output/github-contribution-grid-snake-dark.svg)     
 
 <div align="">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=arturiamu"  alt=""/>
