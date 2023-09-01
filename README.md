@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=25&center=true&lines=Welcome%20to%20Arturiamu%27s%20code%20space!" alt="typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=15&center=true&lines=Welcome%20to%20Arturiamu%27s%20code%20space!" alt="typing-svg">
    
 I am a backend development engineer who is exploring Cloud and Database.
 
