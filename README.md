@@ -1,7 +1,5 @@
-### Hi welcome to arturiamu's code space!
-<p align="">
-   <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=%7ECoding%20My%20Life%7E" alt="typing-svg">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=Welcome%20to%20Arturiamu%27s%20code%20space" alt="typing-svg">
+   
 I am a backend development engineer who is exploring Cloud and Database.
 
 🔭 I’m planning for a Project **Vision: Quantitative Trading based on a certain strategy**.
