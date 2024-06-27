@@ -9,4 +9,4 @@ I am a backend development engineer.
 ![](https://github-readme-stats.vercel.app/api?username=arturiamu&show_icons=true)
 
 
-
+![](https://github-readme-activity-graph.cyclic.app/graph?username=arturiamu)
