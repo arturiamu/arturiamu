@@ -7,6 +7,7 @@ I am a backend development engineer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturiamu&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=arturiamu&show_icons=true)
 
 
 
