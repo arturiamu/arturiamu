@@ -4,7 +4,7 @@ I am a backend development engineer.
 
 <div align="">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=arturiamu"  alt=""/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturiamu&layout=compact&langs_count=8"  alt=""/>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturiamu&hide=javascript,html)](https://github.com/arturiamu/github-readme-stats)
 </div>
 
 <div align="">
