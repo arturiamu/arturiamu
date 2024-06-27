@@ -7,5 +7,6 @@ I am a backend development engineer.
 ![Arturiamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturiamu&show_icons=true)
 [![Arturiamu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturiamu)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=arturiamu)
+![Arturiamu's GitHub stats](https://github-readme-activity-graph.cyclic.app/graph?username=arturiamu)
+
 
